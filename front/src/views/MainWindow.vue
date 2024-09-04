@@ -11,9 +11,10 @@
       color="#D8EFD3"
     >
 
-    <h2 class="d-flex font-weight-bold mb-6 justify-center">Parsing Site</h2>
+      <h2 class="d-flex font-weight-bold justify-center">Parsing Site</h2>
+      <hr>
 
-      <p class="d-flex font-weight-bold justify-center">Ссылка на сайт</p>
+      <p class="d-flex font-weight-bold justify-center mt-6">Ссылка на сайт</p>
 
       <form ref="form" class="ma-3">
         <v-text-field
